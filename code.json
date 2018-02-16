@@ -1,0 +1,46 @@
+[
+  {
+    "name": "NorEaST",
+    "organization": "U.S. Geological Survey",
+    "description": "Map portal for NorEaST stream temperature database",
+    "version": "v0.0.0",
+    "status": "Production"
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain",
+          "URL": "https://github.com/usgs/NorEaST/blob/master/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://ccviewer.wim.usgs.gov/noreast/",
+    "downloadURL": "https://github.com/USGS-WiM/NorEaST/archive/master.zip",
+    "disclaimerURL": "https://github.com/USGS-WiM/NorEaST/blob/master/DISCLAIMER.md",
+    "repositoryUrl": "https://github.com/USGS-WiM/NorEaST",
+    "vcs": "git",
+
+    "laborHours": null,
+
+    "tags": [
+      "noreast",
+      "stream temperature",
+      "portal"
+    ],
+
+    "languages": [
+      "javascript"
+    ],
+
+    "contact": {
+      "name": "Blake Draper",
+      "email": "bdraper@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2018-02-16
+    }
+  }
+]
