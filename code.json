@@ -4,7 +4,7 @@
     "organization": "U.S. Geological Survey",
     "description": "Map portal for NorEaST stream temperature database",
     "version": "v0.0.0",
-    "status": "Production"
+    "status": "Production",
 
     "permissions": {
       "usageType": "openSource",
@@ -40,7 +40,7 @@
     },
 
     "date": {
-      "metadataLastUpdated": "2018-02-16
+      "metadataLastUpdated": "2018-02-16"
     }
   }
 ]
